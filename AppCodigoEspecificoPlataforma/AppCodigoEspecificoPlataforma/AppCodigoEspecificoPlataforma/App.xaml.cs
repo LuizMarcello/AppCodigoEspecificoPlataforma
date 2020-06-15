@@ -10,7 +10,7 @@ namespace AppCodigoEspecificoPlataforma
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new EventosExercicio2();
         }
 
         protected override void OnStart()
